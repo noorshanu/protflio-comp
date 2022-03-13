@@ -1366,7 +1366,7 @@ header a:hover,
 .v_light_dark .navbar-nav .dropdown-menu,
 .v_light_dark .lng_dropdown .ddChild,
 .v_light_dark .spop {
-  background-color: #000000;
+  background-color: #040d21a1;
 }
 .v_blue_light .nav-fixed,
 .v_blue_light header.active,
@@ -7696,4 +7696,70 @@ left .indus-we-serve .img-box::before {
 .indus-we-serve .img-box-6 {
   min-width: 247px;
   min-height: 320px;
+}
+
+#main {
+  margin-top: 200px;
+}
+.project {
+  background-color: #ececee;
+  margin-top: 30px;
+  border-top-right-radius: 30px;
+  /* border: 1px solid #ffeba7; */
+}
+.project-heading {
+  color: #1f2029;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.1rem;
+  margin-top: 30px;
+}
+.project-text {
+  color: #353746;
+  text-align: justify;
+  padding-left: 30px;
+  border-left: 1px solid #353746;
+}
+.sect-pad-tb {
+  padding: 60px 0;
+}
+
+.case-studies a,
+.case-studies a:hover {
+  color: #1f1f1f;
+}
+
+.case-studies img {
+  border-radius: 10px;
+}
+
+.case-studies .card-box {
+  min-width: 250px;
+  max-width: 250px;
+  min-height: 350px;
+  overflow: hidden;
+  position: relative;
+  padding: 45px 25px;
+  border-radius: 15px;
+  box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.1);
+  padding: 35px 25px;
+  z-index: 9;
+  background-color: #fff;
+  margin: 0 10px;
+  min-height: 135px;
+  bottom: 35px;
+  min-width: inherit;
+  max-width: inherit;
+}
+
+.case-studies .tech-chip-slider .swiper-slide {
+  margin-top: 0 !important;
+}
+
+
+
+.star11{
+  
 }
